@@ -1,3 +1,3 @@
 # DhruvShrivastava
 My Portfolio Website
-https://dhruv-shrivastava.mailchimpsites.com/
+https://dhruvvv02.github.io/DhruvShrivastava/
